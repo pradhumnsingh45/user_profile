@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    table, td, th {  
+      border: 1px solid black;
+      text-align: left;
+    }
+    
+    table {
+      border-collapse: collapse;
+      width: 50%;
+     
+    }
+    .table-data{
+        position: relative;
+      left:150px;
+      top:100px;
+    }
+    th, td {
+      padding: 15px;
+    }
+    </style>
+</head>
+ <body style="background-color:powderblue;">
+   <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+  
+  <div class="collapse navbar-collapse" id="collapsibleNavbar">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="/">CREATE</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/update">UPDATE</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/all">ALL USERS</a>
+      </li>  
+      <li class="nav-item">
+        <a class="nav-link" href="/search">SEARCH</a>
+      </li>   
+    </ul>
+  </div>  
+</nav>
+<br>
+ 	 <div class="table-data">
+        
+<h2>USER</h2>
+<br>
+<table border="1">
+       <tr>
+            <th>S.NO</th>
+            <th> ID</th>
+            <th> First Name</th>
+            <th> Last Name</th>
+            <th>Email Address</th>
+            <th>Phone</th>
+            <th>Address</th>
+        </tr>
+        
+        <%
+        if(userData.length!=0){
+        var i=1;
+        userData.forEach(function(data){
+        %>
+        <tr>
+          <td><%=i; %></td>
+            <td><%=data.PersonID %></td>
+            <td><%=data.FirstName%></td>
+            <td><%=data.LastName %></td>
+            <td><%=data.email %></td>
+            <td><%=data.phone %></td>
+            <td><%=data.Address %></td>
+            
+        </tr>
+        <%  i++; }) %>
+        <% } else{ %>
+            <tr>
+                <td colspan="7">No Data Found</td>
+            </tr>
+        <% } %>
+    </table>
+    <form method="get" action="/search">
+<button type="submit" class="btn btn-primary mb-2">SEARCH ANOTHER</button>
+</form>
+</div>
+
+</body>
+</html>
