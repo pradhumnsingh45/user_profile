@@ -1,0 +1,452 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"six",
+				"sixdigit"
+			],
+			[
+				"my",
+				"myfunction"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"a",
+				"address"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"slide",
+				"slideShow"
+			],
+			[
+				"Slid",
+				"slideShow"
+			],
+			[
+				"slid",
+				"slideCount"
+			],
+			[
+				"head",
+				"head\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"blood",
+				"blood_group"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"get",
+				"getEmp"
+			],
+			[
+				"pass",
+				"passport"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"ser",
+				"serializeUser"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"passport",
+				"passportLocalMongoose"
+			],
+			[
+				"User",
+				"UserSchema"
+			],
+			[
+				"U",
+				"UserSchema"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"d",
+				"Date"
+			],
+			[
+				"campgro",
+				"campgrounds"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"c",
+				"campgroundSchema"
+			],
+			[
+				"ge",
+				"george"
+			],
+			[
+				"new",
+				"newcampground"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"s",
+				"subredditName"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"p2",
+				"p2display"
+			],
+			[
+				"t",
+				"textContent"
+			],
+			[
+				"p1",
+				"p1display"
+			],
+			[
+				"htt",
+				"HttpResponse"
+			],
+			[
+				"co",
+				"color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Build: New Build System"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/pradhumn-pc/Desktop/new/views/first_page.ejs",
+		"/C/Users/pradhumn-pc/Desktop/new/index.js",
+		"/C/Users/pradhumn-pc/Desktop/pranay/server.js",
+		"/C/Users/pradhumn-pc/Desktop/new/views/allusers.ejs",
+		"/C/Users/pradhumn-pc/Desktop/new/views/style.css",
+		"/C/Users/pradhumn-pc/Desktop/pranay/views/donor.ejs",
+		"/C/Users/pradhumn-pc/Desktop/123.html",
+		"/C/Users/pradhumn-pc/Desktop/pranay/views/userlist.ejs",
+		"/C/Users/pradhumn-pc/Desktop/pranay/views/alldonors.ejs",
+		"/D/projects/login/app.js",
+		"/D/projects/yelpcamp/app.js",
+		"/C/Users/pradhumn-pc/Desktop/Him_frd_project/index.js",
+		"/C/Users/pradhumn-pc/Desktop/procenv/views/.env",
+		"/C/Users/pradhumn-pc/Desktop/procenv/index.js",
+		"/C/Users/pradhumn-pc/Desktop/pranay/views/search.ejs",
+		"/C/Users/pradhumn-pc/Desktop/pranay/views/firstpage.ejs",
+		"/C/Users/pradhumn-pc/Desktop/pranay/views/about.ejs",
+		"/C/Users/pradhumn-pc/Google Drive/project/views/landing_page.ejs",
+		"/C/Users/pradhumn-pc/Desktop/procenv/.env",
+		"/C/Users/pradhumn-pc/Desktop/project/index.js",
+		"/C/Users/pradhumn-pc/Desktop/project/.env",
+		"/C/Users/pradhumn-pc/Google Drive/project/views/set.ejs",
+		"/C/Users/pradhumn-pc/Google Drive/project/index.js",
+		"/C/Users/pradhumn-pc/Google Drive/project/views/get.ejs",
+		"/C/Users/pradhumn-pc/Desktop/project/views/landing_page.ejs",
+		"/C/Users/pradhumn-pc/Desktop/project/views/set.ejs",
+		"/C/Users/pradhumn-pc/Desktop/project/views/get.ejs",
+		"/C/Users/pradhumn-pc/Desktop/pp.html",
+		"/C/Users/pradhumn-pc/Desktop/p.css",
+		"/C/Users/pradhumn-pc/Desktop/pran",
+		"/C/Users/pradhumn-pc/Desktop/hrm/db.py",
+		"/C/Users/pradhumn-pc/Desktop/hrm/EmployeeApi.py",
+		"/C/Users/pradhumn-pc/Downloads/P14-Part2-Regression/Section 6 - Simple Linear Regression/Python/simple_linear_regression.py",
+		"/C/Users/pradhumn-pc/Desktop/hrm/templates/employeeregistration.html",
+		"/C/Users/pradhumn-pc/Desktop/hrm/main.py",
+		"/C/Users/pradhumn-pc/Desktop/hrm/templates/login.html",
+		"/C/Users/pradhumn-pc/Desktop/style.html",
+		"/C/Users/pradhumn-pc/Desktop/f.html",
+		"/C/Users/pradhumn-pc/Desktop/pr2/stick.py",
+		"/C/Users/pradhumn-pc/Desktop/pr2/stock.py",
+		"/C/Users/pradhumn-pc/Desktop/pr2/from bs4 import BeautifulSoup",
+		"/D/pranay/server.js",
+		"/C/Users/pradhumn-pc/Desktop/newlife-master/New folder/text2.js",
+		"/C/Users/pradhumn-pc/Desktop/newlife-master/New folder/text.js",
+		"/C/Users/pradhumn-pc/Desktop/newlife-master/New folder/text1.js",
+		"/C/Users/pradhumn-pc/Desktop/newlife-master/New folder/login.html",
+		"/C/Users/pradhumn-pc/Desktop/newlife-master/New folder/contactus.html",
+		"/C/Users/pradhumn-pc/Desktop/newlife-master/New folder/index.html",
+		"/C/Users/pradhumn-pc/Desktop/newlife-master/New folder/aboutus.html",
+		"/C/Users/pradhumn-pc/Desktop/scripts.js",
+		"/C/Users/pradhumn-pc/Documents/projects/blog/views/index.ejs",
+		"/C/Users/pradhumn-pc/Desktop/blood/views/alldonors.ejs",
+		"/C/Users/pradhumn-pc/Desktop/blood/views/search.ejs",
+		"/C/Users/pradhumn-pc/Desktop/blood/views/firstpage.ejs",
+		"/C/Users/pradhumn-pc/Desktop/blood/views/donor.ejs",
+		"/C/Users/pradhumn-pc/Desktop/blood/Procfile",
+		"/C/Users/pradhumn-pc/Desktop/pranay/package.json",
+		"/C/Users/pradhumn-pc/Desktop/blood/package.json",
+		"/C/Users/pradhumn-pc/Desktop/blood/views/about.ejs",
+		"/C/Users/pradhumn-pc/PycharmProjects/untitled/venv/Lib/site-packages/pip/_vendor/chardet/codingstatemachine.py",
+		"/C/Users/pradhumn-pc/Desktop/about.js",
+		"/C/Users/pradhumn-pc/Documents/projects/new life html/index.html.html",
+		"/C/Users/pradhumn-pc/Desktop/blood/views/userlist.ejs",
+		"/C/Users/pradhumn-pc/Documents/projects/new life html/color.js",
+		"/C/Users/pradhumn-pc/Desktop/blood/app1.js",
+		"/C/Users/pradhumn-pc/Documents/projects/blog/Procfile",
+		"/C/Users/pradhumn-pc/Documents/projects/blog/package.json",
+		"/C/Users/pradhumn-pc/Desktop/blood/app.js",
+		"/C/Users/pradhumn-pc/Documents/projects/blog/views/show.ejs",
+		"/C/Users/pradhumn-pc/Documents/projects/blog/views/new.ejs",
+		"/C/Users/pradhumn-pc/Documents/projects/blog/app.js",
+		"/C/Users/pradhumn-pc/Documents/projects/node/views/home.ejs",
+		"/C/Users/pradhumn-pc/Documents/projects/final/pp.py",
+		"/C/Users/pradhumn-pc/Documents/projects/node/app.js",
+		"/C/Users/pradhumn-pc/Desktop/op.sh",
+		"/C/Users/pradhumn-pc/Desktop/film",
+		"/C/Users/pradhumn-pc/Desktop/Decision_Tree_Regression/decision_tree_regression.py",
+		"/C/Users/pradhumn-pc/Desktop/calc.sh",
+		"/C/Users/PRADHU~1/AppData/Local/Temp/kite_tutorial.py",
+		"/C/Users/pradhumn-pc/Documents/Untitled-1.py",
+		"/C/Users/pradhumn-pc/Desktop/pp.py",
+		"/C/Users/pradhumn-pc/Desktop/login/views/home.ejs",
+		"/C/Users/pradhumn-pc/Desktop/login/views/register.ejs",
+		"/C/Users/pradhumn-pc/Desktop/login/views/book.ejs",
+		"/C/Users/pradhumn-pc/Desktop/login/views/secret.ejs",
+		"/C/Users/pradhumn-pc/Desktop/login/app.js",
+		"/C/Users/pradhumn-pc/Desktop/pd.sh",
+		"/C/Users/pradhumn-pc/Desktop/app.js",
+		"/C/Users/pradhumn-pc/Desktop/login/views/login.ejs",
+		"/C/Users/pradhumn-pc/Desktop/New folder/login.html",
+		"/C/Users/pradhumn-pc/Desktop/login/models/user.js",
+		"/C/Users/pradhumn-pc/Desktop/blog/views/show.ejs",
+		"/C/Users/pradhumn-pc/Desktop/yelpcamp/views/campgrounds.ejs",
+		"/C/Users/pradhumn-pc/Desktop/login/views/login.css",
+		"/C/Users/pradhumn-pc/Desktop/login/views/pranay.css",
+		"/C/Users/pradhumn-pc/Desktop/final/app.js",
+		"/C/Users/pradhumn-pc/Desktop/blog/public/app.css",
+		"/C/Users/pradhumn-pc/Desktop/blog/views/index.ejs",
+		"/C/Users/pradhumn-pc/Desktop/blog/views/new.ejs",
+		"/C/Users/pradhumn-pc/Desktop/blog/app.js",
+		"/C/Users/pradhumn-pc/Desktop/blog/views/partials/footer.ejs",
+		"/C/Users/pradhumn-pc/Desktop/blog/views/partials/header.ejs.html",
+		"/C/Users/pradhumn-pc/Desktop/yelpcamp/views/landing.ejs",
+		"/C/Users/pradhumn-pc/Desktop/yelpcamp/views/new.ejs",
+		"/C/Users/pradhumn-pc/Desktop/yelpcamp/databases/cats.js",
+		"/C/Users/pradhumn-pc/Desktop/yelpcamp/views/show.ejs",
+		"/C/Users/pradhumn-pc/Desktop/yelpcamp/app.js",
+		"/C/Users/pradhumn-pc/Desktop/yelpcamp/views/partials/header.ejs",
+		"/C/Users/pradhumn-pc/Desktop/yelpcamp/views/partials/footer.ejs",
+		"/C/Users/pradhumn-pc/Desktop/node/app.js",
+		"/C/Users/pradhumn-pc/Desktop/node/views/home1.ejs",
+		"/C/Users/pradhumn-pc/Desktop/node/views/home.ejs",
+		"/C/Users/pradhumn-pc/Desktop/node/home.ejs",
+		"/C/Users/pradhumn-pc/Desktop/node/function.js",
+		"/C/Users/pradhumn-pc/Desktop/node/echo.js",
+		"/C/Users/pradhumn-pc/Desktop/web d/killer.js",
+		"/C/Users/pradhumn-pc/Desktop/web d/index.html",
+		"/C/Users/pradhumn-pc/Desktop/web d/todo.html",
+		"/C/Users/pradhumn-pc/Desktop/web d/todo.js",
+		"/C/Users/pradhumn-pc/Desktop/web d/todo.css",
+		"/C/Users/pradhumn-pc/Desktop/web d/killer.html",
+		"/C/Users/pradhumn-pc/Desktop/pradhumn/pradhumn/urls.py",
+		"/C/Users/pradhumn-pc/Desktop/pradhumn/first/models.py",
+		"/C/Users/pradhumn-pc/Desktop/pradhumn/first/views.py",
+		"/C/Users/pradhumn-pc/Desktop/pradhumn/pradhumn/settings.py",
+		"/C/Users/pradhumn-pc/Desktop/python/even.py",
+		"/C/Users/pradhumn-pc/Desktop/python/tax.py",
+		"/C/Users/pradhumn-pc/Desktop/python/kanak.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\pradhumn-pc\\Desktop\\New folder\\mypage.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
